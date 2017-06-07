@@ -1,4 +1,4 @@
-> Project [badges] (https://shields.io/)
+> Project [badges](https://shields.io/)
 
 # template-template
 Template for template projects
