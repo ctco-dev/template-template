@@ -31,7 +31,3 @@ Template for template projects
 ## Tech Stack
 
 > What's inside ?
-
-## Cloud Deployment
-
-> Cloud provider specific configs
